@@ -113,3 +113,7 @@ Java 25 targeting is configured in the backend Maven project. Before a successfu
 - Passwords are handled by the backend and are never displayed in the frontend.
 - Backend authorization remains the source of truth; frontend route guards provide user experience only.
 - For production deployment, use HTTPS, rotate JWT secrets, use strong database credentials, and prefer secure httpOnly cookie-based authentication.
+
+**AUTHOR**
+--chethla saiteja--
+
